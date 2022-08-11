@@ -5,7 +5,6 @@ $sub_title= '혁신기술';
 
 <? include 'head.php';?>
 
-나는 서버페이지0<?= $subnum ?>
-회사소개<?= $sub_title ?>
+나는 서버페이지04
 
 <? include 'tail.php';?>
